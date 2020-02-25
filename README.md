@@ -1,7 +1,7 @@
 Pigycoin Core integration/staging tree
 =====================================
 
-[![Build Status](https://travis-ci.org/pigycoin-project/pigycoin.svg?branch=master)](https://travis-ci.org/pigycoin-project/pigycoin)
+[![pigycoin-project](https://circleci.com/gh/pigycoin-project/pigycoin.svg?style=svg)](https://app.circleci.com/jobs/github/pigycoin-project/pigycoin/)
 
 https://pigycoin.org
 
