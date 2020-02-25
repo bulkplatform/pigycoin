@@ -5,7 +5,7 @@ Setup
 ---------------------
 pigycoin Core is the original pigycoin client and it builds the backbone of the network. It downloads and, by default, stores the entire history of pigycoin transactions (which is currently more than 7 GBs); depending on the speed of your computer and network connection, the synchronization process can take anywhere from a few hours to a day or more.
 
-To download pigycoin Core, visit [faithco.in](http://faithco.in).
+To download pigycoin Core, visit [pigycoin.org](https://pigycoin.org).
 
 Running
 ---------------------
