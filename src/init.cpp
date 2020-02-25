@@ -526,7 +526,7 @@ std::string HelpMessage(HelpMessageMode mode)
 std::string LicenseInfo()
 {
     const std::string URL_SOURCE_CODE = "<https://github.com/pigycoin-project/pigycoin>";
-    const std::string URL_WEBSITE = "<https://faithco.in>";
+    const std::string URL_WEBSITE = "<https://pigycoin.org>";
 
     return CopyrightHolders(strprintf(_("Copyright (C) %i-%i"), 2011, COPYRIGHT_YEAR) + " ") + "\n" +
            "\n" +
