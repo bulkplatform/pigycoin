@@ -3,6 +3,7 @@ Pigycoin Core integration/staging tree
 
 [![pigycoin-project](https://circleci.com/gh/pigycoin-project/pigycoin.svg?style=svg)](https://app.circleci.com/jobs/github/pigycoin-project/pigycoin/)
 
+[![Build Status](https://img.shields.io/github/forks/pigycoin-project/pigycoin.svg?style=social)](https://github.com/pigycoin-project/pigycoin)
 [![Build Status](https://img.shields.io/github/stars/pigycoin-project/pigycoin.svg?style=social)](https://github.com/pigycoin-project/pigycoin)
 [![License](https://img.shields.io/github/license/pigycoin-project/pigycoin.svg?style=social)](https://github.com/pigycoin-project/pigycoin)
 [![Build Status](https://img.shields.io/circleci/project/pigycoin-project/pigycoin/master.svg?style=social)](https://circleci.com/gh/pigycoin-project/pigycoin)
